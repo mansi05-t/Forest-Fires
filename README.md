@@ -3,7 +3,7 @@
 ![Wild-fires](https://user-images.githubusercontent.com/64386278/91287946-03111b80-e7ae-11ea-8ce6-736a38ea68b9.jpg)
 
  
-  **Objective**
+  ## Objective
  
 Forest fires help in the natural cycle of woods' growth and replenishment. They Clear dead trees, leaves, and competing vegetation from the forest floor, so new plants can grow. Remove weak or disease-ridden trees, leaving more space and nutrients for stronger trees.
 
