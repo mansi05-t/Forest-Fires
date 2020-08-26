@@ -13,7 +13,7 @@ In this kernel, our aim is to predict the burned area (area) of forest fires, in
 
 This prediction can be used for calculating the forces sent to the incident and deciding the urgency of the situation.
  
- ## About Data:
+ ## About Data
  
  * This dataset covers meteorological and spatiotemporal data for forest fires (between 2000 and 2003) in Portugal’s Montesinho Natural Park, with 13 attributes each for 517 such incidents. 
  
@@ -35,7 +35,7 @@ This prediction can be used for calculating the forces sent to the incident and 
     #  Outlier treatment  
     #  Preparing the data for modelling  
     
- ## Models:
+ ## Models
   * Linear Regression
   * Bagging Regressor
   * Extra Trees Regressor
